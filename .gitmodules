@@ -1,0 +1,3 @@
+[submodule "external/install_dsns"]
+	path = external/install_dsns
+	url = git@ssh.dev.azure.com:v3/c-finance/Analytics/install_dsns
